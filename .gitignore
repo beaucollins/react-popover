@@ -1,0 +1,6 @@
+# ignore dependencies
+node_modules
+# index.js is output by `npm build`
+index.js
+# dist is where webpack builds are output
+dist
